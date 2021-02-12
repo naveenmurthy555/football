@@ -32,7 +32,7 @@ local computer. If you haven't, do that first. You can find instructions in the 
    need without affecting the system Python installation. At the terminal, type
    the following command:
 
-        $ virtualenv .venv
+        $ virtualenv .venvn
 
 2. Activate the virtual environment:
 
